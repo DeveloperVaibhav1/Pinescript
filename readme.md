@@ -39,7 +39,7 @@ Pine Script v6 · TradingView · 5m / 15m
 
 ## Overview
 
-devVaibhav is a Pine Script v6 signal and execution system built for **XAUUSDT** and **BTCUSDT** on the **5-minute** and **15-minute** charts.
+Stark is a Pine Script v6 signal and execution system built for **XAUUSDT** and **BTCUSDT** on the **5-minute** and **15-minute** charts.
 
 It does not rely on a single setup. Several independent strategy models each look for an entry, and a **confluence score (0–100)** decides whether a signal is strong enough to take. Every accepted signal comes with a fixed plan: entry, stop loss, three take-profit levels, and a trailing stop. Position size is calculated from a fixed **0.5% account risk** per trade.
 
