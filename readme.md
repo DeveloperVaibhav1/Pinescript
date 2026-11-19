@@ -1,7 +1,5 @@
 <div align="center">
 
-# devVaibhav
-
 **Multi-model confluence trading system for XAUUSDT and BTCUSDT**
 Pine Script v6 · TradingView · 5m / 15m
 
